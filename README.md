@@ -1,4 +1,4 @@
 # calculator
-Calculator created a part of the Odin Project.
+Calculator created as a part of the Odin Project.
 
 Live Link - https://helenastra.github.io/calculator/
