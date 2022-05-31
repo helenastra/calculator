@@ -21,7 +21,7 @@ body {
     margin-top: 60px;
     gap: 40px;
     padding: 30px;
-    width: 45vh;
+    width: 50vh;
     height: 70vh;
     background-color: #367588;
     border-radius: 30px;
@@ -36,7 +36,7 @@ body {
     word-wrap: break-word;
     word-break: break-all;
     padding: 10px 20px;
-    width: 40vh;
+    width: 45vh;
     height: 10vh;
     border-radius: 20px;
     background-color: white;
@@ -56,7 +56,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    width: 45vh;
+    width: 50vh;
     height: 50vh;
     gap: 15px;
     row-gap: 0px;
